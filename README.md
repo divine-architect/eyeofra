@@ -8,7 +8,7 @@
 </p>
 
 ## EyeOfRa
-EyeOfRa aims to be the Swiss Army Knife of people centric OSINT. Some of it's planned features are:
+EyeOfRa aims to be the Swiss Army Knife of people centric OSINT. Some of its planned features are:
 - To build upon the `sherlock project` (check for usernames on sites without as many false positives which is currently an issue with the sherlock tool)
 - Use `holehe` and improve on false positives, similar to the previous one
 - Use face recognition algorithms paired with browser/web testing software to match profile pictures and other visual cues.
