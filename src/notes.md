@@ -1,1 +1,2 @@
 - insta and twt give a signup only if the page exists
+- would using API be a better approach?
